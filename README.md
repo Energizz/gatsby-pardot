@@ -1,2 +1,2 @@
-# gatsby-pardot
-gatsby-pardot
+# gatsby-plugin-pardot
+gatsby-plugin-pardot
